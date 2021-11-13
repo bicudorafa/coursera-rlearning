@@ -1,2 +1,3 @@
-# coursera-rlearning
-(WIPcoursera-rlearning
+# Reinforcement Learning Specialization - Final Project
+
+This repository contains the notebooks and configurations needed to run (end-to-end) my final project at the [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning), on Coursera, by the University of Alberta. The course goal was to how Reinforcement Learning (RL) solutions help solve real-world problems through trial-and-error interaction by implementing a complete RL solution from beginning to end. This project's goal was to design an agent to learn how to land a Lunar Module on the Moon based on the famous challenge environment provided by [OpenAI Gym](https://gym.openai.com/envs/LunarLander-v2/).
