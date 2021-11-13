@@ -80,4 +80,6 @@ dependencies:
   - zeromq=4.3.4=he49afe7_1
   - zlib=1.2.11=h9173be1_1013
   - zstd=1.5.0=h582d3a0_0
+  - pip:
+    - box2d==2.3.10
 prefix: /opt/anaconda3/envs/rl-coursera
